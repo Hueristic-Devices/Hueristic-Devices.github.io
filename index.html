@@ -6,11 +6,88 @@
     <style type="text/css">
       body {
         font-family: 'Open Sans', sans-serif;
+        width: 99%
+        min-width: 600px;
+      }
+      .top-level {
+        width: 60%;
+        margin: 0 auto;
+        text-align: center;
+        min-width: 550px;
+      }
+      #title {
+        display: none;
+      }
+      #menu ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+      }
+      #menu ul li {
+        display: inline;
+        padding: 0 10px;
+        border-right: 1px solid #000;
+      }
+      #menu ul li.last {
+        border-right: 0;
+      }
+      .top-level h2, .top-level h3 {
+        text-align: left;
+      }
+
+      .top-level p {
+        text-align: left;
       }
     </style>
   </head>
   <body>
-    <div id="logo"><img src="images/hd_logo.jpg" alt="Hueristic Devices Logo"></div>
-    <h1>Hueristic Devices</h1>
+    <div id="logo" class="top-level"><img src="images/hd_logo.jpg" alt="Hueristic Devices Logo"></div>
+    <div id="title" class="top-level"><h1>Hueristic Devices</h1></div>
+    <div id="menu" class="top-level">
+      <ul>
+        <li class="menu-item first"><a href="#about">About</a></li>
+        <li class="menu-item"><a href="#products">Products</a></li>
+        <li class="menu-item"><a href="#team">Team</a></li>
+        <li class="menu-item last"><a href="#contact">Contact</a></li>
+      </ul>
+    </div>
+    <div class="top-level">
+      <a name="about"></a>
+      <h2>About</h2>
+      <p>Hueristic Devices is a Bangalore based company with water and soil testing products.</p>
+      <p>The company was formed to take forward the research and product development work of <a href="http://ffem.io">Foundation for Environmental Monitoring</a></p>
+    </div>
+    <div class="top-level">
+      <a name="products"></a>
+      <h2>Products</h2>
+      <h3>HD Pro Water</h3>
+      <p>A smartphone based product to test for key water parameters</p>
+      <h3>HD Pro Soil</h3>
+      <p>A smartphone based soil test kit</p>
+      <h3>HD Elementary Water</h3>
+      <p>A simple screening test for water</p>
+      <h3>Spot Coli</h3>
+      <p>A 30 minute test for Escheria Coli (E Coli) in water.</p>
+    </div>
+    <div class="top-level">
+      <a name="team"></a>
+      <h2>Team</h2>
+      <h3>Samuel Rajkumar</h3>
+      <p>blah blah</p>
+      <h3>Meetu Desai Grover, Marketing and Communications</h3>
+      <p>With over 20 years in communications ...</p>
+      <h3>Nischal Halery, Technology</h3>
+      <p>Nischal has over 20 years programming and management experience...</p>
+      <h3>Shreyas S, Operations</h3>
+      <p>Shreyas has over ...</p>
+      <h3>Pradeep Balkiunde, R&amp;D</h3>
+      <p>Pradeep has over ...</p>
+    </div>
+    <div class="top-level">
+      <a name="contact"></a>
+      <h2>Contact</h2>
+      <p>Address here</p>
+    </div>
+
   </body>
 </html>
