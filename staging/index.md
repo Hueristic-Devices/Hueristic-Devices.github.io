@@ -11,17 +11,17 @@ title:
   </div>
   <div class="carousel-inner">
     <div class="carousel-item active" data-bs-interval="10000">
-          <img src="{{ site.baseurl }}images/assets/home_slider_1.png" class="d-block w-100" alt="HD Product">
+          <img src="/images/assets/home_slider_1.png" class="d-block w-100" alt="HD Product">
       <div class="carousel-caption d-none d-md-block">
       </div>
     </div>
     <div class="carousel-item" data-bs-interval="2000">
-          <img src="{{ site.baseurl }}images/assets/home_slider_2.png" class="d-block w-100" alt="HD Product">
+          <img src="/images/assets/home_slider_2.png" class="d-block w-100" alt="HD Product">
       <div class="carousel-caption d-none d-md-block">
       </div>
     </div>
     <div class="carousel-item">
-          <img src="{{ site.baseurl }}images/assets/home_slider_3.png" class="d-block w-100" alt="HD Product">
+          <img src="/images/assets/home_slider_3.png" class="d-block w-100" alt="HD Product">
       <div class="carousel-caption d-none d-md-block">
       </div>
     </div>
@@ -89,31 +89,31 @@ title:
   </div>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="{{ site.baseurl }}images/assets/index_slider_1.png" class="d-block w-100" alt="HD Product">
+      <img src="/images/assets/index_slider_1.png" class="d-block w-100" alt="HD Product">
     </div>
     <div class="carousel-item">
-      <img src="{{ site.baseurl }}images/assets/index_slider_2.png" class="d-block w-100" alt="HD Product">
+      <img src="/images/assets/index_slider_2.png" class="d-block w-100" alt="HD Product">
     </div>
     <div class="carousel-item">
-      <img src="{{ site.baseurl }}images/assets/index_slider_3.png" class="d-block w-100" alt="HD Product">
+      <img src="/images/assets/index_slider_3.png" class="d-block w-100" alt="HD Product">
     </div>
      <div class="carousel-item">
-      <img src="{{ site.baseurl }}images/assets/index_slider_4.png" class="d-block w-100" alt="HD Product">
+      <img src="/images/assets/index_slider_4.png" class="d-block w-100" alt="HD Product">
     </div>
      <div class="carousel-item">
-      <img src="{{ site.baseurl }}images/assets/index_slider_5.png" class="d-block w-100" alt="HD Product">
+      <img src="/images/assets/index_slider_5.png" class="d-block w-100" alt="HD Product">
     </div>
      <div class="carousel-item">
-      <img src="{{ site.baseurl }}images/assets/index_slider_6.png" class="d-block w-100" alt="HD Product">
+      <img src="/images/assets/index_slider_6.png" class="d-block w-100" alt="HD Product">
     </div>
      <div class="carousel-item">
-      <img src="{{ site.baseurl }}images/assets/index_slider_7.png" class="d-block w-100" alt="HD Product">
+      <img src="/images/assets/index_slider_7.png" class="d-block w-100" alt="HD Product">
     </div>
      <div class="carousel-item">
-      <img src="{{ site.baseurl }}images/assets/index_slider_8.png" class="d-block w-100" alt="HD Product">
+      <img src="/images/assets/index_slider_8.png" class="d-block w-100" alt="HD Product">
     </div>
      <div class="carousel-item">
-      <img src="{{ site.baseurl }}images/assets/index_slider_9.png" class="d-block w-100" alt="HD Product">
+      <img src="/images/assets/index_slider_9.png" class="d-block w-100" alt="HD Product">
     </div>
   </div>
   </div>

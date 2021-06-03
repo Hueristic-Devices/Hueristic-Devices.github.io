@@ -7,7 +7,7 @@ permalink: /products/
 <h4>ProWater</h4>
 
 
-<img src="{{ site.baseurl }}images/assets/products/hd_pro_1.jpg" width="100%"/>
+<img src="/images/assets/products/hd_pro_1.jpg" width="100%"/>
 
 
 
@@ -21,14 +21,14 @@ Immediate results.
 Ideal for in situ and field testing, and for those who do not want to wait for their water test results. Pro Water colorimetric tests show a high correlation with lab results for fluoride, chlorine, iron, nitrate, pH, chromium, arsenic, phosphate, aluminum, hardness (calcium, magnesium), total alkalinity (carbonate, bicarbonates). TDS meters are also available.
 
 
-<a class="btn btn-primary" href="{{ site.baseurl }}prowater">Details</a>
+<a class="btn btn-primary" href="/prowater">Details</a>
 
 
 
 <h4>Customizing ProWater</h4>
 
 
-<img src="{{ site.baseurl }}images/assets/products/pro_ind_fluoride.jpg" width="100%"/>
+<img src="/images/assets/products/pro_ind_fluoride.jpg" width="100%"/>
 
 
 
@@ -36,7 +36,7 @@ Ideal for in situ and field testing, and for those who do not want to wait for t
 
 Individual test parameters so that you can build your own testing kit.
 
-<a class="btn btn-primary" href="{{ site.baseurl }}custom">Details</a>
+<a class="btn btn-primary" href="/custom">Details</a>
 
 
 
@@ -44,7 +44,7 @@ Individual test parameters so that you can build your own testing kit.
 
 
 
-<img src="{{ site.baseurl }}images/assets/products/elementary_group.jpg" width="100%"/>
+<img src="/images/assets/products/elementary_group.jpg" width="100%"/>
 
 
 
@@ -54,6 +54,6 @@ No chemistry expertise needed.
 
 Currently available for fluoride, pH, iron, nitrate and phosphate.
 
-<a class="btn btn-primary" href="{{ site.baseurl }}elementary">Details</a>
+<a class="btn btn-primary" href="/elementary">Details</a>
 
 

@@ -5,7 +5,7 @@ permalink: /privacy_policy/
 ---
 
 <a name="top">This</a> Privacy Notice explains why Hueristic Devices (**“we”** or **“us”** or **“our”**) collects information about you, how that information may be used, processed, protected and otherwise handled when you use or visit our website or our mobile application (**“Platforms”**) and its services. 
-You acknowledge that this Privacy Notice is a part of the [Terms of Use]({{ site.baseurl }}terms_of_use) and all terms defined in the Terms of Use have the same meaning in this Privacy Notice statement and vice-versa. 
+You acknowledge that this Privacy Notice is a part of the [Terms of Use](/terms_of_use) and all terms defined in the Terms of Use have the same meaning in this Privacy Notice statement and vice-versa. 
 
 **BEFORE YOUR SUBMIT ANY INFORMATION TO HUERISTIC DEVICES, PLEASE READ THIS PRIVACY NOTICE WHICH IS AN INTEGRAL PART OF THE TERMS OF USE. THIS PRIVACY NOTICE PROVIDES YOU WITH INFORMATION ON HOW HUERISTIC DEVICES WILL PROCESS YOUR PERSONAL INFORMATION, AND PLEASE PROVIDE YOUR INFORMED CONSENT AS THE SAME IS ESSENTIAL FOR USING THE PLATFORM.**  
 

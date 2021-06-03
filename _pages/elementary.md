@@ -15,7 +15,7 @@ permalink: /elementary/
 <div class="row">
 <div class="col-md-4">
 <h4>Fluoride</h4>
-<img src="{{ site.baseurl }}images/assets/products/elementary_group.jpg" width="100%"/>
+<img src="/images/assets/products/elementary_group.jpg" width="100%"/>
 <p>
  
  <br>₹12,000 (tbd)
@@ -26,7 +26,7 @@ permalink: /elementary/
 </div>
 <div class="col-md-4">
 <h4>Iron</h4>
-<img src="{{ site.baseurl }}images/assets/products/elementary_nitrate.jpg" width="100%"/>
+<img src="/images/assets/products/elementary_nitrate.jpg" width="100%"/>
 <p>
  <br>₹12,000 (tbd)
  
@@ -35,7 +35,7 @@ permalink: /elementary/
 </div>
 <div class="col-md-4">
 <h4>Nitrate</h4>
-<img src="{{ site.baseurl }}images/assets/products/elementary_nitrate.jpg" width="100%"/>
+<img src="/images/assets/products/elementary_nitrate.jpg" width="100%"/>
 <p>
  <br>₹12,000 (tbd)
  
@@ -44,7 +44,7 @@ permalink: /elementary/
 </div>
  <div class="col-md-4">
 <h4>pH</h4>
-<img src="{{ site.baseurl }}images/assets/products/elementary_ph.jpg" width="100%"/>
+<img src="/images/assets/products/elementary_ph.jpg" width="100%"/>
 <p>
 <br>₹12,000 (tbd)
  </p>
@@ -52,7 +52,7 @@ permalink: /elementary/
 </div>
 <div class="col-md-4">
 <h4>Phosphate</h4>
-<img src="{{ site.baseurl }}images/assets/products/elemenntary_phosphorous.jpg" width="100%"/>
+<img src="/images/assets/products/elemenntary_phosphorous.jpg" width="100%"/>
 <p>
  
  <br>₹12,000 (tbd)
@@ -61,7 +61,7 @@ permalink: /elementary/
 </div>
 <div class="col-md-4">
 <h4>Potassium</h4>
-<img src="{{ site.baseurl }}images/assets/products/elemenntary_phosphorous.jpg" width="100%"/>
+<img src="/images/assets/products/elemenntary_phosphorous.jpg" width="100%"/>
 <p>
  
  <br>₹12,000 (tbd)

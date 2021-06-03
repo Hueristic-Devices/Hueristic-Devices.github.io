@@ -15,10 +15,10 @@ What happens after data is collected? Data that does not reach users on time for
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100" src="{{ site.baseurl }}images/data/data_flow.webp" alt="Data Flow">
+      <img class="d-block w-100" src="/images/data/data_flow.webp" alt="Data Flow">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="{{ site.baseurl }}images/data/hd_advantage.webp" alt="HD Advantage">
+      <img class="d-block w-100" src="/images/data/hd_advantage.webp" alt="HD Advantage">
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselDataIndicators" role="button" data-slide="prev">

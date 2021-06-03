@@ -26,7 +26,7 @@ Real-time water data. For real-time decision making
 <div class="row">
 <div class="col-md-4">
 <h4>Drinking Water</h4>
-<img src="{{ site.baseurl }}images/assets/products/hd_pro_1.jpg" width="100%"/>
+<img src="/images/assets/products/hd_pro_1.jpg" width="100%"/>
 <p>
  
  
@@ -44,7 +44,7 @@ Real-time water data. For real-time decision making
 <a class="btn btn-primary" href="https://shreyas815.wixsite.com/hueristic/product-page/pro-drinking-water-kit">Buy now</a></div>
 <div class="col-md-4">
 <h4>Groundwater</h4>
-<img src="{{ site.baseurl }}images/assets/products/hd_pro_2.jpg" width="100%"/>
+<img src="/images/assets/products/hd_pro_2.jpg" width="100%"/>
 <p>
  
 
@@ -59,7 +59,7 @@ Real-time water data. For real-time decision making
 <a class="btn btn-primary" href="https://shreyas815.wixsite.com/hueristic/product-page/pro-groundwater-kit">Buy now</a></div>
 <div class="col-md-4">
 <h4>Aquaculture</h4>
-<img src="{{ site.baseurl }}images/assets/products/hd_pro_3.jpg" width="100%"/>
+<img src="/images/assets/products/hd_pro_3.jpg" width="100%"/>
 <p>
  
  
@@ -75,7 +75,7 @@ Real-time water data. For real-time decision making
 <a class="btn btn-primary" href="https://shreyas815.wixsite.com/hueristic/product-page/pro-aquaculture-kit">Buy now</a></div>
 <div class="col-md-4">
 <h4>Ambient Water</h4>
-<img src="{{ site.baseurl }}images/assets/products/hd_pro_4.jpg" width="95%"/>
+<img src="/images/assets/products/hd_pro_4.jpg" width="95%"/>
 <p> 
  
  
@@ -107,7 +107,7 @@ Real-time water data. For real-time decision making
 <div class="row">
 <div class="col-md-4">
 <h4>Drinking Water Resupply Kit</h4>
-<img src="{{ site.baseurl }}images/assets/products/hd_pro_1.jpg" width="100%"/>
+<img src="/images/assets/products/hd_pro_1.jpg" width="100%"/>
 <p> 
 
 <br>Basic kit: ₹15,500
@@ -117,7 +117,7 @@ Real-time water data. For real-time decision making
 <a class="btn btn-primary" href="https://shreyas815.wixsite.com/hueristic/product-page/pro-drinking-water-resupply-kit">Buy now</a></div>
 <div class="col-md-4">
 <h4>Groundwater Resupply Kit</h4>
-<img src="{{ site.baseurl }}images/assets/products/hd_pro_2.jpg" width="100%"/>
+<img src="/images/assets/products/hd_pro_2.jpg" width="100%"/>
 <p>
 
 <br>₹15,000
@@ -125,7 +125,7 @@ Real-time water data. For real-time decision making
 <a class="btn btn-primary" href="https://shreyas815.wixsite.com/hueristic/product-page/pro-groundwater-resupply-kit">Buy now</a></div>
 <div class="col-md-4">
 <h4>Aquaculture Resupply Kit</h4>
-<img src="{{ site.baseurl }}images/assets/products/hd_pro_3.jpg" width="100%"/>
+<img src="/images/assets/products/hd_pro_3.jpg" width="100%"/>
 <p>
  
  
@@ -137,7 +137,7 @@ Real-time water data. For real-time decision making
 <a class="btn btn-primary" href="https://shreyas815.wixsite.com/hueristic/product-page/pro-aquaculture-resupply-kit">Buy now</a></div>
 <div class="col-md-4">
 <h4>Ambient Water Resupply Kit</h4>
-<img src="{{ site.baseurl }}images/assets/products/hd_pro_4.jpg" width="95%"/>
+<img src="/images/assets/products/hd_pro_4.jpg" width="95%"/>
 <p> 
  
  

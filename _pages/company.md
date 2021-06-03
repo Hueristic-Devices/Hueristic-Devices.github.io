@@ -14,32 +14,32 @@ permalink: /company/
 <div id="carouselaboutdark" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-          <img src="{{ site.baseurl }}images/assets/about_slider_1.png" class="d-block w-100" alt="HD Product">
+          <img src="/images/assets/about_slider_1.png" class="d-block w-100" alt="HD Product">
       <div class="carousel-caption d-none d-md-block">
       </div>
     </div>
     <div class="carousel-item" data-bs-interval="2000">
-          <img src="{{ site.baseurl }}images/assets/about_slider_2.png" class="d-block w-100" alt="HD Product">
+          <img src="/images/assets/about_slider_2.png" class="d-block w-100" alt="HD Product">
       <div class="carousel-caption d-none d-md-block">
       </div>
     </div>
    <div class="carousel-item">
-          <img src="{{ site.baseurl }}images/assets/about_slider_3.png" class="d-block w-100" alt="HD Product">
+          <img src="/images/assets/about_slider_3.png" class="d-block w-100" alt="HD Product">
       <div class="carousel-caption d-none d-md-block">
       </div>
     </div>
    <div class="carousel-item">
-          <img src="{{ site.baseurl }}images/assets/about_slider_4.png" class="d-block w-100" alt="HD Product">
+          <img src="/images/assets/about_slider_4.png" class="d-block w-100" alt="HD Product">
       <div class="carousel-caption d-none d-md-block">
       </div>
     </div>
    <div class="carousel-item">
-          <img src="{{ site.baseurl }}images/assets/about_slider_5.png" class="d-block w-100" alt="HD Product">
+          <img src="/images/assets/about_slider_5.png" class="d-block w-100" alt="HD Product">
       <div class="carousel-caption d-none d-md-block">
       </div>
     </div>
     <div class="carousel-item">
-          <img src="{{ site.baseurl }}images/assets/about_slider_6.png" class="d-block w-100" alt="HD Product">
+          <img src="/images/assets/about_slider_6.png" class="d-block w-100" alt="HD Product">
       <div class="carousel-caption d-none d-md-block">
       </div>
     </div>

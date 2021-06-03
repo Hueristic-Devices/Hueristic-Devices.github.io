@@ -7,7 +7,7 @@ permalink: /team/
 
 <br><br>
 
-<img class="d-block team-image" src="{{ site.baseurl }}images/assets/team/guruprasad.jpg" alt="Guruprasad">
+<img class="d-block team-image" src="/images/assets/team/guruprasad.jpg" alt="Guruprasad">
 
  
  <br> <strong>Guruprasad</strong>
@@ -17,7 +17,7 @@ Production Support
  
 <br><br>
  
-<img class="d-block team-image" src="{{ site.baseurl }}images/assets/team/joanna.jpg" alt="Krishnamurthy">
+<img class="d-block team-image" src="/images/assets/team/joanna.jpg" alt="Krishnamurthy">
  
 <br> <strong>Joanna S</strong>
  
@@ -26,7 +26,7 @@ Communications Executive
 <br><br>
 
 
-<img class="d-block team-image" src="{{ site.baseurl }}images/assets/team/krishnamurthy.jpg" alt="Krishnamurthy">
+<img class="d-block team-image" src="/images/assets/team/krishnamurthy.jpg" alt="Krishnamurthy">
  
 <br> <strong>Krishnamurthy</strong>
  
@@ -34,7 +34,7 @@ Product Support
 
  <br><br>
  
- <img class="d-block team-image" src="{{ site.baseurl }}images/assets/team/meetu.jpg" alt="Meetu Grover Desai">
+ <img class="d-block team-image" src="/images/assets/team/meetu.jpg" alt="Meetu Grover Desai">
  
  <br> <strong>Meetu Grover Desai</strong>
  
@@ -43,7 +43,7 @@ Product Support
   
  <br><br>
 
- <img class="d-block team-image" src="{{ site.baseurl }}images/assets/team/nagaraj.jpg" alt="Nagaraj Udupa">
+ <img class="d-block team-image" src="/images/assets/team/nagaraj.jpg" alt="Nagaraj Udupa">
  
  
 <br> <strong>Nagaraj Udupa</strong>
@@ -54,7 +54,7 @@ Product Support
   <br><br>
 
 
- <img class="d-block team-image" src="{{ site.baseurl }}images/assets/team/nischal.jpg" alt="Nischal Halery"> 
+ <img class="d-block team-image" src="/images/assets/team/nischal.jpg" alt="Nischal Halery"> 
  
  
 <br> <strong>Nischal Halery</strong>
@@ -64,7 +64,7 @@ Product Support
  
  <br><br>
 
- <img class="d-block team-image" src="{{ site.baseurl }}images/assets/team/pradeep.jpg" alt="Pradeep Balkunde">
+ <img class="d-block team-image" src="/images/assets/team/pradeep.jpg" alt="Pradeep Balkunde">
   
  
  
@@ -75,7 +75,7 @@ Product Support
   
  <br><br>
 
- <img class="d-block team-image" src="{{ site.baseurl }}images/assets/team/sam.jpg" alt="Samuel Rajkumar">
+ <img class="d-block team-image" src="/images/assets/team/sam.jpg" alt="Samuel Rajkumar">
      
  
 <br> <strong>Samuel Rajkumar</strong>
@@ -85,7 +85,7 @@ Product Support
  <br><br>
 
 
- <img class="d-block team-image" src="{{ site.baseurl }}images/assets/team/shreyas.jpg" alt="Shreyas S"> 
+ <img class="d-block team-image" src="/images/assets/team/shreyas.jpg" alt="Shreyas S"> 
  
  
 <br> <strong>Shreyas S</strong>
@@ -95,7 +95,7 @@ Product Support
  <br><br>
 
 
- <img class="d-block team-image" src="{{ site.baseurl }}images/assets/team/srijana.jpg" alt="Srijana Bhandari"> 
+ <img class="d-block team-image" src="/images/assets/team/srijana.jpg" alt="Srijana Bhandari"> 
  
  
 <br> <strong>Srijana Bhandari</strong>
@@ -105,7 +105,7 @@ Product Support
  <br><br>
 
 
- <img class="d-block team-image" src="{{ site.baseurl }}images/assets/team/sushant.jpg" alt="Sushant Bamane">
+ <img class="d-block team-image" src="/images/assets/team/sushant.jpg" alt="Sushant Bamane">
  
  
 <br> <strong>Sushant Bamane</strong>
