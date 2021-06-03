@@ -25,12 +25,12 @@ description: >- # this means to ignore newlines until "baseurl:"
 
 
 # Production
-# baseurl: "/" 
-# url: "https://www.hueristicdevices.com"
+baseurl: "/" 
+url: "https://www.hueristicdevices.com"
 
 # Dev
-baseurl: "/" 
-url: "http://127.0.0.1:4000"
+# baseurl: "/" 
+# url: "http://127.0.0.1:4000"
 
 
 # twitter_username: jekyllrb
