@@ -1,0 +1,152 @@
+/*
+Custom styles
+*/
+
+body {
+    font-family: 'Questrial', sans-serif;
+    font-size: 1.0em;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    text-decoration: underline;
+}
+
+#footer {
+    margin: 2em 0;
+    padding: 2em 0;
+    border-top: 1px solid #000;
+}
+
+#top {
+    max-width: 980px;
+}
+
+div#nav-container {
+    margin: 0px -0.7em;
+}
+
+div.article {
+    margin-top: 2em;
+    padding-top: 2em;
+}
+
+div.main-article {
+    padding-right: 1em;
+}
+
+div#announcements h4 {
+    color: #fff;
+    background-color: #444;
+}
+
+nav.navbar {
+    border-bottom: 2px solid #000;
+    padding-bottom: 0;
+}
+
+a.nav-link {
+    text-transform: uppercase;
+    font-size: 0.8em !important;
+}
+
+a.nav-link:link {
+    color: #000 !important;
+}
+
+a.nav-link:visited {
+    color: #000 !important;
+}
+
+a.nav-link:hover {
+    color: #000 !important;
+}
+
+a.nav-link:active {
+    color: #000 !important;
+}
+
+ul.navbar-nav {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+nav.bg-light {
+    background-color: #fff!important;;
+}
+
+nav.navbar ul li {
+    border-right: 1px solid #000;
+    margin: 0;
+    padding: 0;
+}
+
+nav.navbar ul li.last-nav {
+    border-right: 0;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    padding-right: 1.5rem;
+    padding-left: 1.5rem;
+}
+
+img.header-logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div#announcements h4 {
+    padding: 0.5rem;
+}
+
+.home-image {
+    width: 100px;
+    height: 100px;
+    float: left;
+    border-radius: 100%;
+    margin: 0 0.5em 0.5em 0;
+}
+.team-image {
+    width: 200px;
+    height: 200px;
+    float: left;
+    border-radius: 100%;
+    margin: 0 0.5em 0.5em 0;
+}
+
+.card1 {
+    background-color: #37B9DE;
+}
+
+.card1:hover {
+    background-image: url(../images/assets/logo1.png);
+}
+
+.card2 {
+    background-color: #B7DA9B;
+}
+
+.card2:hover {
+    background-image: url(../images/assets/card2.png);
+}
+.card3 {
+    background-color: #EECDAC;
+}
+
+.card3:hover {
+    background-image: url(../images/assets/card3.png);
+}
+
+
