@@ -149,4 +149,7 @@ div#announcements h4 {
     background-image: url(../images/assets/card3.png);
 }
 
-
+p.team-profile {
+    clear: both;
+    margin: 2em 0;
+}
