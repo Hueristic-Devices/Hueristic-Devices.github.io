@@ -41,7 +41,7 @@ Real-time water data. For real-time decision making
  
 <br>*50 tests variants also available
 </p>
-<a class="btn btn-primary" href="https://shreyas815.wixsite.com/hueristic/product-page/pro-drinking-water-kit">Buy now</a></div>
+<a class="btn btn-primary" href="https://shop.hueristicdevices.com/product-page/pro-drinking-water-kit">Buy now</a></div>
 <div class="col-md-4">
 <h4>Groundwater</h4>
 <img src="/images/assets/products/hd_pro_2.jpg" width="100%"/>
@@ -56,7 +56,7 @@ Real-time water data. For real-time decision making
  
 *50 tests variant also available
  </p>
-<a class="btn btn-primary" href="https://shreyas815.wixsite.com/hueristic/product-page/pro-groundwater-kit">Buy now</a></div>
+<a class="btn btn-primary" href="https://shop.hueristicdevices.com/product-page/pro-groundwater-kit">Buy now</a></div>
 <div class="col-md-4">
 <h4>Aquaculture</h4>
 <img src="/images/assets/products/hd_pro_3.jpg" width="100%"/>
@@ -72,7 +72,7 @@ Real-time water data. For real-time decision making
  
  <br>*50 tests variant also available
  </p>
-<a class="btn btn-primary" href="https://shreyas815.wixsite.com/hueristic/product-page/pro-aquaculture-kit">Buy now</a></div>
+<a class="btn btn-primary" href="https://shop.hueristicdevices.com/product-page/pro-aquaculture-kit">Buy now</a></div>
 <div class="col-md-4">
 <h4>Ambient Water</h4>
 <img src="/images/assets/products/hd_pro_4.jpg" width="95%"/>
@@ -87,7 +87,7 @@ Real-time water data. For real-time decision making
  
 <br>*50 tests variant also available
  </p>
-<a class="btn btn-primary" href="https://shreyas815.wixsite.com/hueristic/product-page/pro-ambient-water-kit">Buy now</a><br><br></div>
+<a class="btn btn-primary" href="https://shop.hueristicdevices.com/product-page/pro-ambient-water-kit">Buy now</a><br><br></div>
 
 
 
@@ -114,7 +114,7 @@ Real-time water data. For real-time decision making
 
 <br>Advanced kit: ₹17,500
 </p>
-<a class="btn btn-primary" href="https://shreyas815.wixsite.com/hueristic/product-page/pro-drinking-water-resupply-kit">Buy now</a></div>
+<a class="btn btn-primary" href="https://shop.hueristicdevices.com/product-page/pro-drinking-water-resupply-kit">Buy now</a></div>
 <div class="col-md-4">
 <h4>Groundwater Resupply Kit</h4>
 <img src="/images/assets/products/hd_pro_2.jpg" width="100%"/>
@@ -122,7 +122,7 @@ Real-time water data. For real-time decision making
 
 <br>₹15,000
  </p>
-<a class="btn btn-primary" href="https://shreyas815.wixsite.com/hueristic/product-page/pro-groundwater-resupply-kit">Buy now</a></div>
+<a class="btn btn-primary" href="https://shop.hueristicdevices.com/product-page/pro-groundwater-resupply-kit">Buy now</a></div>
 <div class="col-md-4">
 <h4>Aquaculture Resupply Kit</h4>
 <img src="/images/assets/products/hd_pro_3.jpg" width="100%"/>
@@ -134,7 +134,7 @@ Real-time water data. For real-time decision making
 
 <br>Advanced kit: ₹15,000
  </p>
-<a class="btn btn-primary" href="https://shreyas815.wixsite.com/hueristic/product-page/pro-aquaculture-resupply-kit">Buy now</a></div>
+<a class="btn btn-primary" href="https://shop.hueristicdevices.com/product-page/pro-aquaculture-resupply-kit">Buy now</a></div>
 <div class="col-md-4">
 <h4>Ambient Water Resupply Kit</h4>
 <img src="/images/assets/products/hd_pro_4.jpg" width="95%"/>
@@ -144,4 +144,4 @@ Real-time water data. For real-time decision making
 
 <br>₹20,000
  </p>
-<a class="btn btn-primary" href="https://shreyas815.wixsite.com/hueristic/product-page/pro-ambient-water-resupply-kit">Buy now</a></div>
+<a class="btn btn-primary" href="https://shop.hueristicdevices.com/product-page/pro-ambient-water-resupply-kit">Buy now</a></div>

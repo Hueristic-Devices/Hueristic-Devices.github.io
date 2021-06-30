@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 
+title: Hueristic Devices 
 ---
 
 <div id="carouselExampleDark" class="carousel carousel-dark slide" data-bs-ride="carousel">
@@ -48,7 +48,7 @@ title:
       <div class="card-body">
         <h5 class="card-title"><strong>ProWater</strong></h5>
         <p class="card-text">TESTING KITS</p>
-        <a class="btn btn-primary" href="https://shreyas815.wixsite.com/hueristic/prowater-testing-products">Explore</a>
+        <a class="btn btn-primary" href="https://shop.hueristicdevices.com/prowater-testing-products">Explore</a>
       </div>
     </div>
   </div>
@@ -57,7 +57,7 @@ title:
       <div class="card-body">
         <h5 class="card-title"><strong>Elementary Water</strong></h5>
         <p class="card-text">TESTING KITS</p>
-        <a class="btn btn-primary" href="https://shreyas815.wixsite.com/hueristic/copy-of-prosoil">Explore</a>
+        <a class="btn btn-primary" href="https://shop.hueristicdevices.com/copy-of-prosoil">Explore</a>
       </div>
     </div>
   </div>
@@ -66,7 +66,7 @@ title:
       <div class="card-body">
         <h5 class="card-title"><strong>Accessories</strong></h5>
         <p class="card-text">_</p>
-        <a class="btn btn-primary" href="https://shreyas815.wixsite.com/hueristic/copy-of-elementary">Explore</a>
+        <a class="btn btn-primary" href="https://shop.hueristicdevices.com/copy-of-elementary">Explore</a>
       </div>
     </div>
   </div>
