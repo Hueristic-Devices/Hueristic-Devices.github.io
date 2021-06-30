@@ -132,6 +132,7 @@ div#announcements h4 {
 
 .card1:hover {
     background-image: url(../images/assets/logo1.png);
+    background-repeat: no-repeat;
 }
 
 .card2 {
@@ -140,6 +141,7 @@ div#announcements h4 {
 
 .card2:hover {
     background-image: url(../images/assets/card2.png);
+    background-repeat: no-repeat;
 }
 .card3 {
     background-color: #EECDAC;
@@ -147,6 +149,7 @@ div#announcements h4 {
 
 .card3:hover {
     background-image: url(../images/assets/card3.png);
+    background-repeat: no-repeat;
 }
 
 p.team-profile {
