@@ -1,5 +1,5 @@
 ---
-layout: product
+layout: default
 title:  Annual Report
 permalink: /annual/
 ---

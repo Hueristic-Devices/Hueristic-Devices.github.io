@@ -1,5 +1,5 @@
 ---
-layout: product
+layout: default
 title: ProWater
 permalink: /prowater/
 ---
