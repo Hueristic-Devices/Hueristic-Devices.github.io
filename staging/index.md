@@ -1,6 +1,6 @@
 ---
-layout: default
-title:
+layout: index
+title: Hueristic Devices
 ---
 
 <div id="carouselExampleDark" class="carousel carousel-dark slide" data-bs-ride="carousel">
