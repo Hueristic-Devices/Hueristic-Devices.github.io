@@ -17,7 +17,7 @@ permalink: /products/
     </div>
     <div class="col-md-6">
         <h3>Pro</h3>
-        <p>Designed for institutions and businesses, these tests use Android smartphones to automate colorimetric tests. These tests are over 95% accurate when compared to sandard laboratory tests.</p>
+        <p>Designed for institutions and businesses, these tests use Android smartphones to digitize colorimetric tests. These tests are over 95% accurate when compared to standard laboratory tests.</p>
         <img src="/images/assets/products/hd_pro_1.jpg" width="100%"/>
         <br><br>
         <p><a class="btn btn-primary" href="/prowater">Details</a></p>
