@@ -11,8 +11,12 @@ permalink: /products/
         <br><br>
         <p><a class="btn btn-primary" href="/elementary">Details</a></p>
         <ul>
-            <li>Fluoride</li>
-            <li>Nitrate</li>
+            <li><strong>Fluoride</strong> 0-2 mg/l, box of 50 colorimetric tests. <a class="" href="#">Buy now</a></li>
+            <li><strong>Iron</strong> 0-1.5 mg/l, box of 50 colorimetric tests. <a class="" href="#">Buy now</a></li>
+            <li><strong>Nitrate</strong> 0-50 mg/l, box of 25 colorimetric tests. <a class="" href="#">Buy now</a></li>
+            <li><strong>pH</strong> 4-10, box of 50 colorimetric tests. <a class="" href="#">Buy now</a></li>
+            <li><strong>Phosphate</strong> 0-2ppm, box of 50 colorimetric tests. <a class="" href="#">Buy now</a></li>
+            <li><strong>Potassium</strong> 0-2ppm, box of 50 colorimetric tests. <a class="" href="#">Buy now</a></li>
         </ul>
     </div>
     <div class="col-md-6">
@@ -22,8 +26,10 @@ permalink: /products/
         <br><br>
         <p><a class="btn btn-primary" href="/prowater">Details</a></p>
         <ul>
-            <li>Drinking Water</li>
-            <li>Groundwater</li>
+            <li><strong>Drinking Water</strong> Seven-parameter kit tests for fluoride, nitrate, residual chlorine, total iron, turbidity, pH, TDS. <a href="https://www.shop.hueristicdevices.com/product-page/pro-drinking-water-kit">Buy now</a></li>
+            <li><strong>Groundwater</strong> Thirteen-parameter kit* tests for arsenic, calcium, chloride,  fluoride, magnesium, nitrate, sulphate, total alkalinity, total hardness, total iron, turbidity,  pH and TDS   <a href="https://www.shop.hueristicdevices.com/product-page/pro-groundwater-kit">Buy now</a></li>
+            <li><strong>Aquaculture</strong> Six-parameter kit tests for  ammonia, dissolved oxygen, nitrite, total alkalinity, pH, and TDS. <a href="https://www.shop.hueristicdevices.com/product-page/pro-aquaculture-kit">Buy now</a></li>
+            <li><strong>Ambient Water</strong> Seven-parameter kit tests for ammonia, dissolved oxygen, nitrate, phosphate, turbidity, pH and TDS <a href="https://www.shop.hueristicdevices.com/product-page/pro-ambient-water-kit">Buy now</a></li>
         </ul>
     </div>
     <div class="col-md-6">
