@@ -11,10 +11,10 @@ permalink: /products/
         <br><br>
         <p><a class="btn btn-primary" href="/elementary">Details</a></p>
         <ul>
-            <li><strong>Fluoride</strong> 0-2 mg/l, box of 50 colorimetric tests. <a class="" href="https://www.shop.hueristicdevices.com/product-page/elementary-water-fluoride">Buy now</a></li>
-            <li><strong>Iron</strong> 0-1.5 mg/l, box of 50 colorimetric tests. <a class="" href="https://www.shop.hueristicdevices.com/product-page/elementary-water-iron">Buy now</a></li>
-            <li><strong>Nitrate</strong> 0-50 mg/l, box of 25 colorimetric tests. <a class="" href="https://www.shop.hueristicdevices.com/product-page/elementary-water-nitrate">Buy now</a></li>
-            <li><strong>pH</strong> 4-10, box of 50 colorimetric tests. <a class="" href="https://www.shop.hueristicdevices.com/product-page/elementary-water-ph">Buy now</a></li>
+            <li><strong><a href="/elementary_water_fluoride/">Fluoride</a></strong> 0-2 mg/l, box of 50 colorimetric tests. <a class="" href="https://www.shop.hueristicdevices.com/product-page/elementary-water-fluoride">Buy now</a></li>
+            <li><strong><a href="/elementary_water_iron/">Iron</a></strong> 0-1.5 mg/l, box of 50 colorimetric tests. <a class="" href="https://www.shop.hueristicdevices.com/product-page/elementary-water-iron">Buy now</a></li>
+            <li><strong><a href="/elementary_water_nitrate/">Nitrate</a></strong> 0-50 mg/l, box of 25 colorimetric tests. <a class="" href="https://www.shop.hueristicdevices.com/product-page/elementary-water-nitrate">Buy now</a></li>
+            <li><strong><a href="/elementary_water_ph/">pH</a></strong> 4-10, box of 50 colorimetric tests. <a class="" href="https://www.shop.hueristicdevices.com/product-page/elementary-water-ph">Buy now</a></li>
         </ul>
     </div>
     <div class="col-md-6">
