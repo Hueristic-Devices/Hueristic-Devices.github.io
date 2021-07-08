@@ -14,4 +14,6 @@ Phone: +91 80 4814 4892
 
 Email: [info@hueristic.dev](mailto:info@hueristic.dev)
 
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScbtjHFpvX7LbMfTriKc960lncjbnXMvsZajyESaVxqaHkIlA/viewform?embedded=true" width="640" height="808" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
 
