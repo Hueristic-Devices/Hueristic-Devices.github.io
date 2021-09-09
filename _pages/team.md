@@ -12,19 +12,10 @@ permalink: /team/
  Production Support<br>
 </p>  
 <p class="team-profile">
-<img class="d-block team-image" src="/images/assets/team/joanna.jpg" alt="Krishnamurthy">
-<strong>Joanna S</strong><br>
-Communications Executive<br>
-</p>
-<p class="team-profile">
 <img class="d-block team-image" src="/images/assets/team/krishnamurthy.jpg" alt="Krishnamurthy"> 
 <strong>Krishnamurthy</strong><br> 
 Product Support<br>
 </p>
-<p class="team-profile">
-<img class="d-block team-image" src="/images/assets/team/meetu.jpg" alt="Meetu Grover Desai">
-<strong>Meetu Grover Desai</strong><br>
-Head of Marketing and Communications<br>
 <p class="team-profile">
 <img class="d-block team-image" src="/images/assets/team/nagaraj.jpg" alt="Nagaraj Udupa">
 <strong>Nagaraj Udupa</strong><br>
